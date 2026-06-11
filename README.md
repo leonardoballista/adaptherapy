@@ -1,2 +1,2 @@
-# adaptherapy
-Valutazione in silico dell’efficacia terapeutica: un confronto tra protocolli per la gestione delle masse tumorali
+# Il ruolo della competizione cellulare e della plasticità fenotipica negli esiti della terapia adattativa
+Essendo un lavoro soggetto a revisione ho scelto di scrivere il codice in .ipynb. Inoltre, questa scelta si rivela utile anche per massimizzare la chiarezza e la riproducibilità: il formato permette infatti di affiancare l'esecuzione sequenziale del codice alla visualizzazione immediata degli output.
